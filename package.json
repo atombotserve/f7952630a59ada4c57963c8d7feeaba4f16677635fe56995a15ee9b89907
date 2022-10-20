@@ -1,0 +1,12 @@
+{
+      "name": "f7952630a59ada4c57963c8d7feeaba4f16677635fe56995a15ee9b89907",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "ล็ อ ต โต อเมริกา ล่าสุด ที่ HUAY แต่ โบนัสจัดเต็ม",
+      "repository": "https://github.com/atombotserve/f7952630a59ada4c57963c8d7feeaba4f16677635fe56995a15ee9b89907",
+      "keywords": "ไม่ผ่านเอเย่นต์",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
